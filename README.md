@@ -2,9 +2,9 @@
 
 ### Hi there I'm Avio ( aka Abhishek ) - XD
 
- 💻Passionate about Code
- 🎮Competitive Gamer
- 😷 Don't push me until u pull mah side.
+ #### 💻Passionate about Code
+ #### 🎮Competitive Gamer
+ #### 😷 Don't push me until u pull mah side.
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
