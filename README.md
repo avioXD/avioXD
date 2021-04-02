@@ -31,7 +31,7 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: 
+[1]: https://twitter.com/AvioAbhishekDas
 [2]: https://www.facebook.com/profile.php?id=100007664220612
 
 
