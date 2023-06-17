@@ -1,44 +1,14 @@
+👋 Hello there! I'm Abhishek aka Avio, a passionate Full Stack developer with a strong love for project management and coding.
 
+💻 As a Full Stack developer, I have experience working with a wide range of technologies and frameworks. From front-end development using HTML, CSS, and JavaScript, to back-end development with Node.js, Python, and PHP, I enjoy the challenge of building robust and scalable applications.
 
-### Hi there I'm Avio ( aka Abhishek ) - XD
+📊 Additionally, I have a keen interest in project management and strive to ensure smooth and efficient workflows. I am well-versed in Agile methodologies and have experience leading development teams, coordinating tasks, and delivering projects on time and within budget.
 
- #### 💻Passionate about Code
- #### 🎮Competitive Gamer
- #### 😷 Don't push me until u pull mah side.
- ## Profile webpage: [>](https://abhishekdasakaavio.herokuapp.com/#/)
+🌟 What truly drives me is the opportunity to create elegant and practical solutions to real-world problems. I am always eager to learn new technologies and stay up-to-date with the latest industry trends.
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+🔧 When it comes to version control and collaboration, Git and GitHub are my go-to tools. I believe in the power of open-source software and enjoy contributing to the developer community whenever I can.
 
-<!-- display the social media buttons in your README -->
+🎯 In my free time, you'll find me exploring new coding techniques, experimenting with side projects, or immersing myself in the vibrant tech community through meetups and conferences.
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/AvioAbhishekDas
-[2]: https://www.facebook.com/profile.php?id=100007664220612
-[3]: https://github.com/avioXD
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-
+📫 If you're interested in collaborating on exciting projects or discussing innovative ideas, feel free to reach out. Let's connect and make a positive impact through technology!
 
